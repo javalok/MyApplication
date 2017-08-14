@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         System.out.println("Hello Project Lokendra");
     }
     
-    private void getName(){
+    private void getNames(){
         System.out.println("Hello Project Lokendra");
         System.out.println("Hello Project Lokendra");
         System.out.println("Hello Project Lokendra");
