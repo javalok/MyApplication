@@ -12,7 +12,11 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void getName(){
-        System.out.println("Hello Proejct");
+        System.out.println("Hello Project Lokendra");
+        System.out.println("Hello Project Lokendra");
+        System.out.println("Hello Project Lokendra");
+
+        System.out.println("Hello Project Lokendra");
     }
 
 
